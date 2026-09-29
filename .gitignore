@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+runs/
+datasets/
+*.zip
+
+.vscode/
+.idea/
+
+.env
