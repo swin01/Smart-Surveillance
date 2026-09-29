@@ -2,7 +2,7 @@ from ultralytics import YOLO
 import cv2
 
 # Load all models
-knife_model = YOLO("best.pt")
+knife_model = YOLO("knife.pt")
 appliance_model = YOLO("appliance.pt")
 person_model = YOLO("yolov8n.pt")
 
